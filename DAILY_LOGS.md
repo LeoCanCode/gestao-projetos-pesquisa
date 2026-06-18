@@ -296,7 +296,7 @@
 > Prioridade em finalizar a KAN-42 (Implantacao do BD)
 > ainda pela manha. Revisarei o burndown — estamos com
 > um dia de atraso em relacao ao planejado e precisamos
-> avaliar se todas as tarefas serao entregues no Dia 7.
+> avaliar se todas as tarefas serao entregues no Dia 7 (29/06).
 
 **Impedimentos?**
 > Nenhum impedimento tecnico. Porem, o atraso acumulado
@@ -386,7 +386,7 @@
 > KAN-20 (Implementar consulta ao banco). Tambem
 > registrarei formalmente as dailies dos dias anteriores
 > (KAN-45) e prepararei a pauta do KAN-46 (Sprint Review)
-> para o Dia 7.
+> para o Dia 7 (29/06).
 
 **Impedimentos?**
 > Nenhum impedimento.
@@ -438,7 +438,7 @@
 > (Testar atualizacao de status) conforme Bruno for
 > entregando as funcionalidades ao longo do dia.
 > E importante que eu consiga testar tudo hoje, pois
-> o Dia 7 sera reservado para Review e Retrospectiva.
+> o Dia 7 (29/06) sera reservado para Review e Retrospectiva.
 
 **Impedimentos?**
 > Preocupacao com o tempo: se Bruno entregar as
@@ -461,7 +461,7 @@
   na Retrospectiva:** concentracao excessiva de tarefas
   no ultimo dia de desenvolvimento devido ao atraso
   acumulado nos dias anteriores.
-- Sprint Review e Retrospective programados para o Dia 7.
+- Sprint Review e Retrospective programados para o Dia 7 (29/06).
 
 ---
 
