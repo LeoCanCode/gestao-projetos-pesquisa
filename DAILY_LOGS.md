@@ -2,7 +2,7 @@
 
 > Projeto: MVP - Sistema de Gestão de Projetos de Pesquisa
 > Repositório: [grupo-pesquisa-mvp]
-> Sprint: Sprint 1 — Duração: Dias 1 a 7
+> Sprint: Sprint 1 — Duração: Dias 1 a 7 (22/06 à 29/06)
 > Scrum Master (responsável pelo log): Leonardo
 > Ferramenta de reunião: Google Meet
 
@@ -18,7 +18,7 @@
 
 ---
 
-## Daily Scrum — Dia 2
+## Daily Scrum — Dia 2 (23/06)
 
 - **Data:** Segunda-feira — Dia 2 da Sprint
 - **Horário:** 09h00 – 09h15
@@ -92,7 +92,7 @@
 ---
 ---
 
-## Daily Scrum — Dia 3
+## Daily Scrum — Dia 3 (24/06)
 
 - **Data:** Terça-feira — Dia 3 da Sprint
 - **Horário:** 09h00 – 09h15
@@ -177,7 +177,7 @@
 ---
 ---
 
-## Daily Scrum — Dia 4
+## Daily Scrum — Dia 4 (25/06)
 
 - **Data:** Quarta-feira — Dia 4 da Sprint
 - **Horário:** 09h00 – 09h15
@@ -270,7 +270,7 @@
 ---
 ---
 
-## Daily Scrum — Dia 5
+## Daily Scrum — Dia 5 (27/06)
 
 - **Data:** Quinta-feira — Dia 5 da Sprint
 - **Horário:** 09h00 – 09h15
@@ -362,7 +362,7 @@
 ---
 ---
 
-## Daily Scrum — Dia 6
+## Daily Scrum — Dia 6 (28/06)
 
 - **Data:** Sexta-feira — Dia 6 da Sprint
 - **Horário:** 09h00 – 09h15
