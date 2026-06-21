@@ -1,7 +1,7 @@
 # DAILY_LOGS.md
 
 > Projeto: MVP - Sistema de Gestão de Projetos de Pesquisa
-> Repositório: [grupo-pesquisa-mvp]
+> Repositório: gestao-projetos-pesquisa
 > Sprint: Sprint 1 — Duração: Dias 1 a 7 (22/06 à 29/06)
 > Scrum Master (responsável pelo log): Leonardo
 > Ferramenta de reunião: Google Meet
