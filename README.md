@@ -1,5 +1,5 @@
 > Projeto: MVP - Sistema de Gestão de Projetos de Pesquisa
-> Repositório: research-group-manager
+> Repositório: gestao-projetos-pesquisa
 > Sprint: Sprint 1
 > Equipe: Leonardo, Bruno, Helena
 
